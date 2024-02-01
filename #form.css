@@ -1,0 +1,9 @@
+*{
+    border: 2px solid rgb(23, 21, 24);
+}
+#form
+{
+    display:flex;
+    
+    text-align: center;
+}
